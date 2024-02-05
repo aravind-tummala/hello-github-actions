@@ -1,5 +1,5 @@
 ---
-name: :label: Cat Lady Membership Application
+name: ":label: Cat Lady Membership Application"
 description: Tell us what qualifies you to be a registered cat fancier.
 body:
 - type: textarea
